@@ -12,7 +12,6 @@ db_name = os.environ.get("DB_NAME", "Cluster0")
 
 channel_1 = int(os.environ.get("CHANNEL_1", "-1002024649219"))
 channel_2 = int(os.environ.get("CHANNEL_2", "-1001842994504"))
-channel_3 = int(os.environ.get("CHANNEL_3", "-1001842994504"))
 channel_log = int(os.environ.get("CHANNEL_LOG", "-1001628283862"))
 # =========================================================== #
 
