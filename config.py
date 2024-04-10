@@ -6,7 +6,7 @@ api_hash = os.environ.get("API_HASH", "8f1e661a440f2663ab0d3b52dd0d4cbc")
 bot_token = os.environ.get("BOT_TOKEN", "")
 # =========================================================== #
 
-db_url = os.environ.get("DB_URL", "mongodb+srv://Menfess:Malik10_@cluster0.0q7u10d.mongodb.net/?retryWrites=true&w=majority")
+db_url = os.environ.get("DB_URL", "mongodb+srv://MenfesVolde:Malik10_@menfessvolde.cabmwfo.mongodb.net/?retryWrites=true&w=majority&appName=Menfessvolde")
 db_name = os.environ.get("DB_NAME", "Cluster0")
 # =========================================================== #
 
